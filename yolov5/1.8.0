@@ -1,0 +1,6 @@
+Looking in indexes: http://mirrors.aliyun.com/pypi/simple/
+Requirement already satisfied: onnx in d:\anaconda3\envs\yolov5\lib\site-packages (1.8.1)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in d:\anaconda3\envs\yolov5\lib\site-packages (from onnx) (3.7.4.3)
+Requirement already satisfied: six in d:\anaconda3\envs\yolov5\lib\site-packages (from onnx) (1.15.0)
+Requirement already satisfied: protobuf in d:\anaconda3\envs\yolov5\lib\site-packages (from onnx) (3.14.0)
+Requirement already satisfied: numpy>=1.16.6 in d:\anaconda3\envs\yolov5\lib\site-packages (from onnx) (1.19.4)
