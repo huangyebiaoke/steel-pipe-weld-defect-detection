@@ -1,0 +1,1 @@
+{"path": "./images/broken-arc1-38.jpg", "outputs": {"object": [{"name": "broken-arc", "bndbox": {"xmin": 595, "ymin": 160, "xmax": 911, "ymax": 246}}]}, "time_labeled": 1604472698933, "labeled": true, "size": {"width": 958, "height": 653, "depth": 3}}

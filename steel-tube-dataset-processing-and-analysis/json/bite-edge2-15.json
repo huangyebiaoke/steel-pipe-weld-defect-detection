@@ -1,0 +1,1 @@
+{"path": "./images/bite-edge2-15.jpg", "outputs": {"object": [{"name": "bite-edge", "bndbox": {"xmin": 695, "ymin": 280, "xmax": 791, "ymax": 330}}]}, "time_labeled": 1604458921031, "labeled": true, "size": {"width": 958, "height": 653, "depth": 3}}

@@ -1,0 +1,1 @@
+{"path": "./images/air-hole2-06.jpg", "outputs": {"object": [{"name": "air-hole", "bndbox": {"xmin": 719, "ymin": 281, "xmax": 739, "ymax": 294}}]}, "time_labeled": 1604458203756, "labeled": true, "size": {"width": 958, "height": 653, "depth": 3}}

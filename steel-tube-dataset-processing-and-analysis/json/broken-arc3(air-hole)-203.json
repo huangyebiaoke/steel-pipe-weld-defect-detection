@@ -1,0 +1,1 @@
+{"path":"E:\\Yangdingming\\Documents\\output-images3\\broken-arc3(air-hole)-203.jpg","outputs":{"object":[{"name":"air-hole","bndbox":{"xmin":261,"ymin":26,"xmax":276,"ymax":41}},{"name":"broken-arc","bndbox":{"xmin":293,"ymin":95,"xmax":1071,"ymax":807}}]},"time_labeled":1615102197546,"labeled":true,"size":{"width":1181,"height":815,"depth":3}}

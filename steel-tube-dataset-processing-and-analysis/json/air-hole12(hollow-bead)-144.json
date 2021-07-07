@@ -1,0 +1,1 @@
+{"path":"E:\\Yangdingming\\Documents\\output-images3\\air-hole12(hollow-bead)-144.jpg","outputs":{"object":[{"name":"air-hole","bndbox":{"xmin":1129,"ymin":786,"xmax":1146,"ymax":802}},{"name":"hollow-bead","bndbox":{"xmin":509,"ymin":201,"xmax":569,"ymax":245}}]},"time_labeled":1614664390848,"labeled":true,"size":{"width":1178,"height":817,"depth":3}}

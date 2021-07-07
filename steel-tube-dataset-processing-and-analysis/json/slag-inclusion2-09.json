@@ -1,0 +1,1 @@
+{"path": "./images/slag-inclusion2-09.jpg", "outputs": {"object": [{"name": "slag-inclusion", "bndbox": {"xmin": 403, "ymin": 166, "xmax": 475, "ymax": 204}}]}, "time_labeled": 1604478062151, "labeled": true, "size": {"width": 958, "height": 653, "depth": 3}}

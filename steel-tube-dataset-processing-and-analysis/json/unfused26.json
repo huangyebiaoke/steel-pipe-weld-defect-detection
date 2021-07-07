@@ -1,0 +1,1 @@
+{"path": "./images/unfused26.jpg", "outputs": {"object": [{"name": "unfused", "bndbox": {"xmin": 352, "ymin": 196, "xmax": 551, "ymax": 234}}]}, "time_labeled": 1604478384085, "labeled": true, "size": {"width": 958, "height": 653, "depth": 3}}

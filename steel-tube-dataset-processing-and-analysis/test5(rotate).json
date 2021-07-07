@@ -1,0 +1,1 @@
+{"path": "", "outputs": {"object": [{"name": "a", "bndbox": {"xmin": 1, "xmax": 2, "ymin": 3, "ymax": 4}}, {"name": "b", "bndbox": {"xmin": 5, "xmax": 6, "ymin": 7, "ymax": 8}}, {"name": "c", "bndbox": {"xmin": 9, "xmax": 10, "ymin": 11, "ymax": 12}}]}, "time_labeled": 0, "labeled": true, "size": {"width": 100, "height": 50, "depth": 3}}

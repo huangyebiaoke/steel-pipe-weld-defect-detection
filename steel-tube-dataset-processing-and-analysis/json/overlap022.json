@@ -1,0 +1,1 @@
+{"path": "./images/overlap022.jpg", "outputs": {"object": [{"name": "overlap", "bndbox": {"xmin": 447, "ymin": 332, "xmax": 492, "ymax": 369}}]}, "time_labeled": 1604475846167, "labeled": true, "size": {"width": 958, "height": 653, "depth": 3}}

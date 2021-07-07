@@ -1,0 +1,1 @@
+{"path": "./images/crack066.jpg", "outputs": {"object": [{"name": "crack", "bndbox": {"xmin": 452, "ymin": 313, "xmax": 539, "ymax": 402}}]}, "time_labeled": 1604475272338, "labeled": true, "size": {"width": 958, "height": 653, "depth": 3}}

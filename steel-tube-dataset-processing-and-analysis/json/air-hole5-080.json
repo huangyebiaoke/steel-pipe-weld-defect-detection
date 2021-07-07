@@ -1,0 +1,1 @@
+{"path":"E:\\Yangdingming\\Documents\\output-images3\\air-hole5-080.jpg","outputs":{"object":[{"name":"air-hole","bndbox":{"xmin":6,"ymin":20,"xmax":22,"ymax":35}},{"name":"porosity","bndbox":{"xmin":66,"ymin":76,"xmax":729,"ymax":680}}]},"time_labeled":1614940071015,"labeled":true,"size":{"width":1182,"height":817,"depth":3}}

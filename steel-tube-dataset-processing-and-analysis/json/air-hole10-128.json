@@ -1,0 +1,1 @@
+{"path":"E:\\Yangdingming\\Documents\\output-images3\\air-hole10-128.jpg","outputs":{"object":[{"name":"air-hole","bndbox":{"xmin":241,"ymin":266,"xmax":262,"ymax":285}},{"name":"air-hole","bndbox":{"xmin":64,"ymin":100,"xmax":81,"ymax":118}}]},"time_labeled":1614588558293,"labeled":true,"size":{"width":1182,"height":817,"depth":3}}

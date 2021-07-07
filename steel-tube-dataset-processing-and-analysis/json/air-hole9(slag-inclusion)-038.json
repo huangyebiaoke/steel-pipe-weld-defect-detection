@@ -1,0 +1,1 @@
+{"path":"E:\\Yangdingming\\Documents\\output-images3\\air-hole9(slag-inclusion)-038.jpg","outputs":{"object":[{"name":"air-hole","bndbox":{"xmin":331,"ymin":270,"xmax":352,"ymax":288}},{"name":"slag-inclusion","bndbox":{"xmin":518,"ymin":468,"xmax":561,"ymax":503}}]},"time_labeled":1615099083707,"labeled":true,"size":{"width":1180,"height":813,"depth":3}}
