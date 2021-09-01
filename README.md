@@ -1,7 +1,7 @@
 # Steel Pipe Weld Defect Detection
 
 This repository contains the codes & dataset for the paper:
-**Dingming Yang, Yanrong Cui, Zeyu Yu & Hongqiang Yuan. (2021). Deep Learning Based Steel Pipe Weld Defect Detection.** [[arxiv](https://arxiv.org/abs/2104.14907)] [[code](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)]
+**Dingming Yang, Yanrong Cui, Zeyu Yu & Hongqiang Yuan. (2021). Deep Learning Based Steel Pipe Weld Defect Detection.** [[paper](https://doi.org/10.1080/08839514.2021.1975391)] [[arxiv](https://arxiv.org/abs/2104.14907)] [[code](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)]
 
 ![result](./steel-tube-dataset-processing-and-analysis/result.svg)
 
@@ -66,13 +66,12 @@ You can get the dataset from [Releases](https://github.com/huangyebiaoke/steel-p
 
 If you use the code or dataset provided in this repository, please cite this work as follows:
 ```
-@misc{yang2021deep,
-      title={Deep Learning Based Steel Pipe Weld Defect Detection}, 
-      author={Dingming Yang and Yanrong Cui and Zeyu Yu and Hongqiang Yuan},
-      year={2021},
-      eprint={2104.14907},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{doi:10.1080/08839514.2021.1975391,
+author = {Yang,Dingming and Cui,Yanrong and Yu,Zeyu and Yuan,Hongqiang},
+title = {Deep Learning Based Steel Pipe Weld Defect Detection},
+journal = {Applied Artificial Intelligence},
+year = {2021},
+doi = {10.1080/08839514.2021.1975391},
 }
 ```
 
