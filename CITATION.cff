@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use the code or dataset provided in this repository, please cite this work as follows."
+authors:
+  - family-names: Yang
+    given-names: Dingming
+    orcid: https://doi.org/10.1080/08839514.2021.1975391
+title: "Deep Learning Based Steel Pipe Weld Defect Detection"
+version: 1.0.0
+doi: 10.1080/08839514.2021.1975391
+date-released: 2021-04-30
