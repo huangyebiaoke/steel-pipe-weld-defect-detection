@@ -29,7 +29,9 @@ pip install -r requirements.txt
 Download dataset from [Releases](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/archive/refs/tags/1.0.zip) and unzip the file to the current directory
 
 ```bash
-wget -O /steel-tube-dataset-all.zip https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/archive/refs/tags/1.0.zip
+wget https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/releases/download/1.0/steel-tube-dataset-all.zip
+```
+```bash
 unzip steel-tube-dataset-all.zip
 ```
 
@@ -66,12 +68,13 @@ You can get the dataset from [Releases](https://github.com/huangyebiaoke/steel-p
 
 If you use the code or dataset provided in this repository, please cite this work as follows:
 ```
-@article{doi:10.1080/08839514.2021.1975391,
-author = {Yang,Dingming and Cui,Yanrong and Yu,Zeyu and Yuan,Hongqiang},
-title = {Deep Learning Based Steel Pipe Weld Defect Detection},
-journal = {Applied Artificial Intelligence},
-year = {2021},
-doi = {10.1080/08839514.2021.1975391},
+@misc{yang2021neural,
+      title={Neural Network Adversarial Attack Method Based on Improved Genetic Algorithm}, 
+      author={Dingming Yang and Yanrong Cui and Hongqiang Yuan},
+      year={2021},
+      eprint={2110.01818},
+      archivePrefix={arXiv},
+      primaryClass={cs.NE}
 }
 ```
 
