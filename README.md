@@ -26,7 +26,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-Download dataset from [Releases](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/archive/refs/tags/1.0.zip) and unzip the file to the current directory
+Download dataset from [Releases](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/releases/tag/1.0) and unzip the file to the current directory
 
 ```bash
 wget https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/releases/download/1.0/steel-tube-dataset-all.zip
@@ -43,7 +43,7 @@ py ./yolov5/train.py
 
 ## Dataset
 
-You can get the dataset from [Releases](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/archive/refs/tags/1.0.zip) which with **YOLO** and **PASCAL VOC 2007** Format in the zip file.
+You can get the dataset from [Releases](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection/releases/tag/1.0) which with **YOLO** and **PASCAL VOC 2007** Format in the zip file.
 
 ### Sample distribution
 
@@ -68,30 +68,32 @@ You can get the dataset from [Releases](https://github.com/huangyebiaoke/steel-p
 
 If you use the code or dataset provided in this repository, please cite this work as follows:
 ```
-@misc{yang2021neural,
-      title={Neural Network Adversarial Attack Method Based on Improved Genetic Algorithm}, 
-      author={Dingming Yang and Yanrong Cui and Hongqiang Yuan},
-      year={2021},
-      eprint={2110.01818},
-      archivePrefix={arXiv},
-      primaryClass={cs.NE}
+@article{doi:10.1080/08839514.2021.1975391,
+author = {Dingming Yang and Yanrong Cui and Zeyu Yu and Hongqiang Yuan},
+title = {Deep Learning Based Steel Pipe Weld Defect Detection},
+journal = {Applied Artificial Intelligence},
+volume = {0},
+number = {0},
+pages = {1-13},
+year  = {2021},
+publisher = {Taylor & Francis},
+doi = {10.1080/08839514.2021.1975391},
+URL = {https://doi.org/10.1080/08839514.2021.1975391},
+eprint = {https://doi.org/10.1080/08839514.2021.1975391}
 }
 ```
 
 
-## Related work
+## Related works
 
-[Reproduction of R-CNN](https://github.com/huangyebiaoke/R-CNN)
+- [Reproduction of R-CNN](https://github.com/huangyebiaoke/R-CNN)
+- [Final assignment of data mining course](https://github.com/huangyebiaoke/data-mining-course/tree/main/final-assignment)
 
-[Final assignment of data mining course](https://github.com/huangyebiaoke/data-mining-course/tree/main/final-assignment)
+## Acknowledgements
 
+- [YOLOv5](https://github.com/ultralytics/yolov5)
+- [Reproduction of Faster R-CNN with Tensorflow2](https://github.com/bubbliiiing/faster-rcnn-tf2)
 
 ## License
 
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
-
-
-## Acknowledgements
-
- - [YOLOv5](https://github.com/ultralytics/yolov5)
- - [Reproduction of Faster R-CNN with Tensorflow2](https://github.com/bubbliiiing/faster-rcnn-tf2)
